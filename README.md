@@ -2,7 +2,7 @@ Sudoku 4x4 Generator
 
 Clean and build project to add neccessary dependencies.
 
-Run => The input look this in console 
+Run Project
 
 Welcome to 4x4 Sudoku Generator
 
