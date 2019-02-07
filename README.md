@@ -8,8 +8,11 @@ Welcome to 4x4 Sudoku Generator
 
 
  4 1 3 2
+ 
  3 2 4 1
+ 
  1 4 2 3
+ 
  2 3 1 4
  
 Enter the options
@@ -26,8 +29,11 @@ c, Enter 4x4 array input for Sudokusolve
    
    
    0 0 3 0
+   
    0 2 0 1 
+   
    1 0 2 1
+   
    0 3 0 0
 
    The empty space must be filled by zeros.
