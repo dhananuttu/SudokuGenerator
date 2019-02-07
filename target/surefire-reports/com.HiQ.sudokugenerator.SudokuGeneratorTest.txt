@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.HiQ.sudokugenerator.SudokuGeneratorTest
+-------------------------------------------------------------------------------
+Tests run: 5000, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.199 sec

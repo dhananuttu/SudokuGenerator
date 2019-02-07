@@ -1,0 +1,13 @@
+# Compiled class file
+*.class
+
+# Log file
+*.log
+target
+.metadata
+.classpath
+.project
+build/
+nbbuild/
+dist/
+nbdist/
